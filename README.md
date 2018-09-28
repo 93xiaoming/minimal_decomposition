@@ -1,7 +1,4 @@
 # minimal_decomposition
 
-This file provides the explicite minimum decomposition sequence of any given single-qubit gate.  
-
-
-
+The function Type_I and Type_I provide the explicite minimum decomposition sequence of any given single-qubit gate.  
 
