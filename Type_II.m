@@ -1,4 +1,4 @@
-%MAIN FUNCTION FOR TYPE I
+%MAIN FUNCTION FOR TYPE II
 %Input: parameters of target transformation(theta,psi,phi), and angle
 %between two axes (Theta)
 %Output: first  arrow: theta of each elementary rotations
